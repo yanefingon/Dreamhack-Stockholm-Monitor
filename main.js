@@ -2,7 +2,7 @@
 // account details
 const players = [
     ['Foggy', ['SPXFoggy%232799']],
-    ['KraV', ['KraV%2321403', 'OzZy%2322198']],
+    ['KraV', ['KraV%2321403', 'OzZy%2322198', 'Poseidon%2323428']],
     ['FoCuS', ['FoCuS%2331324']],
     ['ReMinD', ['ReMinD%2331748', 'raimdark%233864']],
     ['Hitman', ['Ludique%2311619']],
