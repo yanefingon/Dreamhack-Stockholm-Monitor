@@ -12,7 +12,7 @@ const players = [
     ['Moon', ['Interview%2331295', 'Moon%2335134']],
     ['INSUPERABLE', ['iNSUPERABLE%2311842']],
     ['HawK', ['HawK%232797']],
-    ['LawLiet', ['LawLiet%233990', 'Lawliet%2321164', '솜크리%233954', '장상9%233849']],
+    ['LawLiet', ['LawLiet%233990', 'Lawliet%2321164', '솜크리%233954', '장상9%233849', '퉁명한영웅%23315169']],
     ['Happy', ['Cacxa26%232948', 'Happy%232384', 'cacxa27%232425']],
     ['Sok', ['AFSoK%233881', 'moosangsung%231804']],
     ['CrunCher', ['CrunCher%231245']],
