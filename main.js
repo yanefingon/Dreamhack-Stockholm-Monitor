@@ -20,13 +20,16 @@ const players = [
 ];
 
 async function update([name, aliases]) {
-    let flag;
+    let flag, date = 0;
     for (const alias of aliases) {
         const url = new URL('https://website-backend.w3champions.com/api/personal-settings/' + alias);
         const response = await fetch(url);
         const result = await response.json();
-        if (flag != 'SE') 
+        if (Date.parse(result.lastUpdated) > date)
+        {
+            date = Date.parse(result.lastUpdated);
             flag = result.location;
+        }
     }
     
     const entry = document.body.appendChild(document.createElement('div'));
